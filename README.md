@@ -12,3 +12,5 @@ Tracks the percentage of available rental units in a given area. A lower vacancy
 Monitors the number of homeless individuals per 1,000 residents, reflecting the severity of housing insecurity and affordability issues.
 # Average Monthly Rent Increase (%) 
 Measures the year-over-year percentage increase in rental prices, showing trends in rental market inflation and potential financial strain on tenants.
+# New Housing Starts & Completions 
+Tracks the number of new residential construction projects and completed housing units, providing insight into whether supply is keeping pace with demand.

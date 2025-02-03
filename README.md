@@ -4,7 +4,7 @@
 The housing crisis in Canada has emerged as one of the most pressing socio-economic issues of the 21st century, affecting millions of Canadians across the country. Studying this crisis is crucial for several reasons, as it has far-reaching implications for individuals, communities, and the nation as a whole. 
 ## Key Performance Indicators.
  # Housing Affordability Index (HAI) 
-Measures the ratio of average housing prices to median household income, indicating how affordable housing is in different regions. A higher ratio suggests greater affordability challenges.
+**Measures the ratio of average housing prices to median household income, indicating how affordable housing is in different regions. A higher ratio suggests greater affordability challenges.**
  
 # Rental Vacancy Rate 
 Tracks the percentage of available rental units in a given area. A lower vacancy rate signals increased demand and potential housing shortages.

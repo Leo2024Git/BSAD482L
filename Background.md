@@ -67,23 +67,23 @@ Tracks the number of new residential construction projects and completed housing
 
 # 2.Household spending, Canada, regions and provinces
 
-Source: Statistic Canada
+- Source: Statistic Canada
 
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201
+- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201
 
 # 3. Population estimates, quarterly1, 2, 3, 4
 
-Source: Statistic Canada
+- Source: Statistic Canada
 
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901
+- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901
 
 # 4. Homeless Shelter Capacity in Canada from 2016 to 2023, Housing, Infrastructure and Communities Canada (HICC)1
 
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410035301
+- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410035301
 
 
 # 5.Households living with housing problems, by select housing-vulnerable populations and affordability, suitability, adequacy and core housing need indicators1, 
 
-Source: Statistic Canada
+- Source: Statistic Canada
 
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=4610006701
+- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=4610006701

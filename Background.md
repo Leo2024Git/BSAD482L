@@ -60,9 +60,9 @@ Tracks the number of new residential construction projects and completed housing
 
 # 1. Housing starts, under construction and completions in centres 10,000 and over, Canada, provinces, and selected census metropolitan areas, seasonally adjusted
 
-Source: Canada Mortgage and Housing Corporation
+- Source: Canada Mortgage and Housing Corporation
 
-https://open.canada.ca/data/en/dataset/ce353ebe-1b33-4ab2-94cb-ad319b093bfb
+- https://open.canada.ca/data/en/dataset/ce353ebe-1b33-4ab2-94cb-ad319b093bfb
 
 
 # 2.Household spending, Canada, regions and provinces

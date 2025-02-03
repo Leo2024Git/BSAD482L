@@ -78,6 +78,7 @@ Tracks the number of new residential construction projects and completed housing
 - https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901
 
 # 4. Homeless Shelter Capacity in Canada from 2016 to 2023, Housing, Infrastructure and Communities Canada (HICC)1
+- Source: Statistic Canada
 
 - https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410035301
 

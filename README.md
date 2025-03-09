@@ -1,34 +1,33 @@
-# Understanding Housing Crisis in Canada. Costs, Homelessness, Access.
+# Understanding Homelesness in Canada
 
 **Decision Intelligence Approach for discovering the solutions.**
 
 *By: Leonid Monchinskyi*
 
 ## Executive summary
-The housing crisis in Canada has emerged as one of the most pressing socio-economic issues of the 21st century, affecting millions of Canadians across the country. Studying this crisis is crucial for several reasons, as it has far-reaching implications for individuals, communities, and the nation as a whole. 
+
+Homelessness in Canada is a multifaceted and persistent social problem characterized by a lack of stable, safe, and adequate housing. It affects individuals and families across the country, with varying degrees of severity and differing underlying causes. The issue extends beyond simply lacking a roof over one's head; it encompasses a range of challenges, including poverty, lack of affordable housing, mental health issues, addiction, trauma, discrimination, and systemic barriers.
+
 
 ## Key Performance Indicators.
 
-### Housing Affordability Index (HAI) 
-Measures the ratio of average housing prices to median household income, indicating how affordable housing is in different regions. A higher ratio suggests greater affordability challenges.
+### Chronic homelesness percent
+Measures the ratio of chronic homelesness, that can help to acces the situation
 
-<mark>Technical Details:<mark>
-* Range: 0-100?
-* Frequency: Yearly?
+
+* Frequency: Yearly
   
  
-### Rental Vacancy Rate 
+### Hidden Homlesness Demography
 
-Tracks the percentage of available rental units in a given area. A lower vacancy rate signals increased demand and potential housing shortages.
+Tracks the demograhpy of  Hidden homlelesness, and help to identify the vulnerable age groups
 
-### Homelessness Rate per 1,000 People 
+###  Homlesness Demography
 
-Monitors the number of homeless individuals per 1,000 residents, reflecting the severity of housing insecurity and affordability issues.
+Tracks the demograhpy of  homlelesness, and help to identify the vulnerable age groups
 
-### Average Monthly Rent Increase (%) 
+### Total Homelesness
 
-Measures the year-over-year percentage increase in rental prices, showing trends in rental market inflation and potential financial strain on tenants.
+The Total Homelessness KPI is a key performance indicator that measures the total number of individuals experiencing homelessness within a specific geographic area during a defined period. This KPI aims to provide a comprehensive view of the scale of homelessness in a given region.
 
-### New Housing Starts & Completions 
 
-Tracks the number of new residential construction projects and completed housing units, providing insight into whether supply is keeping pace with demand.

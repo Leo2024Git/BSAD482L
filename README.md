@@ -44,6 +44,16 @@ Analyze the long-term economic and social impacts of homelessness on communities
 Definition:
 Chronic homelessness is a key performance indicator (KPI) used to measure the number of individuals experiencing long-term or repeated homelessness over an extended period. According to the U.S. Department of Housing and Urban Development (HUD), a person is considered chronically homeless if they have been homeless for at least 12 consecutive months or on at least four separate occasions in the last three years, totaling 12 months, and have a disabling condition (such as a serious mental illness, substance use disorder, or physical disability).
 
+# Key Performance Indicator (KPI): Hidden Homelessness Demography
+
+Definition:
+Hidden homelessness refers to individuals who do not have permanent housing but are not visible in official homelessness counts because they are temporarily staying with friends or family, living in overcrowded or unsuitable housing, or using short-term accommodations such as motels. These individuals do not access shelters or formal support systems, making them difficult to track.
+
+# Key Performance Indicator (KPI): Homelessness Demography
+
+Definition:
+Homelessness demography refers to the statistical breakdown of individuals experiencing homelessness based on key demographic factors such as age, gender, race, ethnicity, family status, veteran status, and disability status. This KPI provides insights into who is most affected by homelessness, helping to shape targeted interventions and policies.
+
 ## Relevant Databases for Homelessness Research in Canada
 Homeless Individuals and Families Information System (HIFIS)
 

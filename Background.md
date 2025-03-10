@@ -1,4 +1,4 @@
-# Understanding Housing Crisis in Canada. Costs, Homelessness, Access.
+# Understanding Homelessness in Canada.
 
 Canada is facing a significant affordable housing crisis, characterized by a severe shortage of affordable housing options, skyrocketing home prices, and rising rental costs. This crisis is affecting individuals and families across the country, particularly in major urban centers like Toronto, Vancouver, and Montreal, as well as smaller cities and rural areas.
 

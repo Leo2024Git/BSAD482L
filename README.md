@@ -54,6 +54,16 @@ Hidden homelessness refers to individuals who do not have permanent housing but 
 Definition:
 Homelessness demography refers to the statistical breakdown of individuals experiencing homelessness based on key demographic factors such as age, gender, race, ethnicity, family status, veteran status, and disability status. This KPI provides insights into who is most affected by homelessness, helping to shape targeted interventions and policies.
 
+# Key Performance Indicator (KPI): Total Homelessness
+
+Definition:
+Total homelessness refers to the overall number of individuals experiencing homelessness within a specific geographic area over a given period. This includes all forms of homelessness, such as unsheltered individuals (living in streets, cars, or abandoned buildings), those in emergency shelters, and individuals in transitional housing.
+
+# Key Performance Indicator (KPI): Total Beds in Shelters in Canada
+
+Definition:
+Total beds in shelters in Canada refers to the number of available emergency, transitional, and supportive housing beds designated for individuals experiencing homelessness across the country. This KPI includes beds in government-funded shelters, non-profit organizations, and faith-based housing programs.
+
 ## Relevant Databases for Homelessness Research in Canada
 Homeless Individuals and Families Information System (HIFIS)
 

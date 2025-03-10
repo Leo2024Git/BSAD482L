@@ -4,20 +4,20 @@
 Scale and Demographics
 As of 2024, an estimated 81,515 people were experiencing homelessness in Ontario alone, representing a 51% increase since 20163.
 
-Nationally, it's estimated that between 30,000 and 35,000 people are homeless on any given night in Canada5.
+Nationally, it's estimated that between 30,000 and 35,000 people are homeless on any given night in Canada.
 
-Indigenous communities are disproportionately affected, with 33.10% of Canadian homeless coming from Indigenous backgrounds5.
+Indigenous communities are disproportionately affected, with 33.10% of Canadian homeless coming from Indigenous backgrounds.
 
 Regional Disparities
 Northern Ontario has seen a 204% increase in known homelessness since 2016, reaching 5,377 people in 20243.
 
-Urban centers face significant pressures, serving as service hubs and key inflow points for people seeking support3.
+Urban centers face significant pressures, serving as service hubs and key inflow points for people seeking support.
 
 Economic Impact
 The annual cost of homelessness in Canada is estimated to be over $10 billion5.
 
 Government Response
-The Canadian Government is investing $4 billion over ten years to expand funding for the homeless5.
+The Canadian Government is investing $4 billion over ten years to expand funding for the homeless.
 
 Significance of Studying Homelessness in Canada
 Informs policy decisions and resource allocation at municipal, provincial, and federal levels.

@@ -39,6 +39,11 @@ Evaluate the effectiveness of current interventions and support systems.
 
 Analyze the long-term economic and social impacts of homelessness on communities.
 
+# Key Performance Indicator (KPI): Chronic Homelessness
+
+Definition:
+Chronic homelessness is a key performance indicator (KPI) used to measure the number of individuals experiencing long-term or repeated homelessness over an extended period. According to the U.S. Department of Housing and Urban Development (HUD), a person is considered chronically homeless if they have been homeless for at least 12 consecutive months or on at least four separate occasions in the last three years, totaling 12 months, and have a disabling condition (such as a serious mental illness, substance use disorder, or physical disability).
+
 ## Relevant Databases for Homelessness Research in Canada
 Homeless Individuals and Families Information System (HIFIS)
 

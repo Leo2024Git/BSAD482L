@@ -9,7 +9,7 @@ Nationally, it's estimated that between 30,000 and 35,000 people are homeless on
 Indigenous communities are disproportionately affected, with 33.10% of Canadian homeless coming from Indigenous backgrounds.
 
 Regional Disparities
-Northern Ontario has seen a 204% increase in known homelessness since 2016, reaching 5,377 people in 20243.
+Northern Ontario has seen a 204% increase in known homelessness since 2016, reaching 5,377 people in 2024.
 
 Urban centers face significant pressures, serving as service hubs and key inflow points for people seeking support.
 

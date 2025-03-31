@@ -90,8 +90,9 @@ Total beds in shelters in Canada refers to the number of available emergency, tr
  ![Alt Text](https://snipboard.io/gkHZMP.jpg)
 #### Chronic Homelesness 
 The graph indicates fluctuation in the number of shelter users experiencing chronic homelessness between 2017 and 2021. There is an initial decrease from 2017 to 2018, followed by a peak in 2019, and then a decrease in 2020, with a slight rise in 2021.
-
  ![Alt Text](https://snipboard.io/QPh1ws.jpg)
+
+ 
 
 ### Example 2
 #### Hidden Homelesness Demography

@@ -19,6 +19,7 @@ Understanding Homelessness in Canada is a critical research area that examines t
    - [Model explanation](#model-explanation)
    - [Results](#results)
 - [Discussion](#Discussion)
+- [References](#References)
 
 ## Introduction
 ## Key Aspects of Understanding Homelessness in Canada
@@ -241,82 +242,8 @@ The demographic data further contextualizes these findings, showing that older a
 
 These findings suggest that while shelter capacity generally correlates with homelessness rates, there are demographic and regional disparities in resource allocation. The data indicates potential opportunities to better align shelter resources with the demographic profile of the homeless population, particularly for older adults and in regions with lower beds-per-homeless ratios.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Key Aspects of Understanding Homelessness in Canada
-Scale and Demographics
-As of 2024, an estimated 81,515 people were experiencing homelessness in Ontario alone, representing a 51% increase since 20163.
-
-Nationally, it's estimated that between 30,000 and 35,000 people are homeless on any given night in Canada5.
-
-Indigenous communities are disproportionately affected, with 33.10% of Canadian homeless coming from Indigenous backgrounds5.
-
-Regional Disparities
-Northern Ontario has seen a 204% increase in known homelessness since 2016, reaching 5,377 people in 20243.
-
-Urban centers face significant pressures, serving as service hubs and key inflow points for people seeking support3.
-
-Economic Impact
-The annual cost of homelessness in Canada is estimated to be over $10 billion5.
-
-Government Response
-The Canadian Government is investing $4 billion over ten years to expand funding for the homeless5.
-
-Significance of Studying Homelessness in Canada
-Informs policy decisions and resource allocation at municipal, provincial, and federal levels.
-
-Helps identify vulnerable populations and tailor support services.
-
-Contributes to the development of effective strategies for prevention and intervention.
-
-## Research Objectives
-Assess the causes and contributing factors to homelessness across different regions.
-
-Evaluate the effectiveness of current interventions and support systems.
-
-Analyze the long-term economic and social impacts of homelessness on communities.
-
-# Key Performance Indicator (KPI): Chronic Homelessness
-
-Definition:
-Chronic homelessness is a key performance indicator (KPI) used to measure the number of individuals experiencing long-term or repeated homelessness over an extended period. According to the U.S. Department of Housing and Urban Development (HUD), a person is considered chronically homeless if they have been homeless for at least 12 consecutive months or on at least four separate occasions in the last three years, totaling 12 months, and have a disabling condition (such as a serious mental illness, substance use disorder, or physical disability).
-
-# Key Performance Indicator (KPI): Hidden Homelessness Demography
-
-Definition:
-Hidden homelessness refers to individuals who do not have permanent housing but are not visible in official homelessness counts because they are temporarily staying with friends or family, living in overcrowded or unsuitable housing, or using short-term accommodations such as motels. These individuals do not access shelters or formal support systems, making them difficult to track.
-
-# Key Performance Indicator (KPI): Homelessness Demography
-
-Definition:
-Homelessness demography refers to the statistical breakdown of individuals experiencing homelessness based on key demographic factors such as age, gender, race, ethnicity, family status, veteran status, and disability status. This KPI provides insights into who is most affected by homelessness, helping to shape targeted interventions and policies.
-
-# Key Performance Indicator (KPI): Total Homelessness
-
-Definition:
-Total homelessness refers to the overall number of individuals experiencing homelessness within a specific geographic area over a given period. This includes all forms of homelessness, such as unsheltered individuals (living in streets, cars, or abandoned buildings), those in emergency shelters, and individuals in transitional housing.
-
-# Key Performance Indicator (KPI): Total Beds in Shelters in Canada
-
-Definition:
-Total beds in shelters in Canada refers to the number of available emergency, transitional, and supportive housing beds designated for individuals experiencing homelessness across the country. This KPI includes beds in government-funded shelters, non-profit organizations, and faith-based housing programs.
-
-## Relevant Databases for Homelessness Research in Canada
+## References
+#### Relevant Databases for Homelessness Research in Canada
 Homeless Individuals and Families Information System (HIFIS)
 
 Developed by the Government of Canada

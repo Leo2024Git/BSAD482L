@@ -55,6 +55,8 @@ Contributes to the development of effective strategies for prevention and interv
 
 ## Research Objectives
 
+![Alt text](https://snipboard.io/kh3HI2.jpg)
+
 Assess the causes and contributing factors to homelessness across different regions.
 
 Evaluate the effectiveness of current interventions and support systems.

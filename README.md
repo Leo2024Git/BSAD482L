@@ -176,7 +176,7 @@ The correlation coefficients range from -1.0 (perfect negative correlation) to 1
  # Summary 
 ![Alt Text](https://snipboard.io/BK6APx.jpg)
 
-## Shelter Capacity and Homelessness Correlation
+#### Shelter Capacity and Homelessness Correlation
 
 There's a strong positive correlation (approximately 0.91) between total shelter beds and total homelessness rates across regions.
 
@@ -184,7 +184,7 @@ Men's shelter beds show the strongest correlation with homelessness rates (0.87)
 
 Family beds have a moderate correlation (0.62) with homelessness rates.
 
-## Age Demographics Comparison
+#### Age Demographics Comparison
 There's a moderate negative correlation (-0.52) between household age demographics and homeless population age demographics.
 
 ##### Notable differences in age distribution

@@ -1,83 +1,70 @@
-# Understanding Housing Crisis in Canada. Costs, Homelessness, Access.
+# Understanding Homelessness in Canada.
 
-Canada is facing a significant affordable housing crisis, characterized by a severe shortage of affordable housing options, skyrocketing home prices, and rising rental costs. This crisis is affecting individuals and families across the country, particularly in major urban centers like Toronto, Vancouver, and Montreal, as well as smaller cities and rural areas.
+## Key Aspects of Understanding Homelessness in Canada
+Scale and Demographics
+As of 2024, an estimated 81,515 people were experiencing homelessness in Ontario alone, representing a 51% increase since 20163.
 
-## Key Issues
+Nationally, it's estimated that between 30,000 and 35,000 people are homeless on any given night in Canada.
 
-Rising Home Prices: Housing prices in Canada have increased dramatically over the past decade, making homeownership unattainable for many Canadians, especially first-time buyers and low-to-middle-income families<mark>(cite)</mark>.
+Indigenous communities are disproportionately affected, with 33.10% of Canadian homeless coming from Indigenous backgrounds.
 
-High Rental Costs: Rental prices have also surged, with vacancy rates at historic lows in many cities. This has led to increased competition for rental units, forcing many tenants to spend a disproportionate amount of their income on housing<mark>(cite)</mark>.
+Regional Disparities
+Northern Ontario has seen a 204% increase in known homelessness since 2016, reaching 5,377 people in 2024.
 
-Homelessness: The lack of affordable housing has contributed to rising homelessness rates, with many individuals and families unable to secure stable housing.
+Urban centers face significant pressures, serving as service hubs and key inflow points for people seeking support.
 
-## The Significance of Studying the Housing Crisis in Canada.
+Economic Impact
+The annual cost of homelessness in Canada is estimated to be over $10 billion5.
 
-The housing crisis in Canada has emerged as one of the most pressing socio-economic issues of the 21st century, affecting millions of Canadians across the country<mark>(cite)</mark>. Studying this crisis is crucial for several reasons, as it has far-reaching implications for individuals, communities, and the nation as a whole. Below are key points highlighting the significance of this issue:
+Government Response
+The Canadian Government is investing $4 billion over ten years to expand funding for the homeless.
 
-### Impact on Affordability and Quality of Life
-The housing crisis has made homeownership increasingly unattainable for many Canadians, particularly younger generations and low-to-middle-income families. Rising housing costs have outpaced income growth, forcing individuals to spend a disproportionate amount of their income on housing.
+Significance of Studying Homelessness in Canada
+Informs policy decisions and resource allocation at municipal, provincial, and federal levels.
 
-### Rising Homelessness and Housing Insecurity
+Helps identify vulnerable populations and tailor support services.
 
-Homelessness has severe social and economic consequences, including increased healthcare costs, reduced productivity, and higher rates of mental health issues.
+Contributes to the development of effective strategies for prevention and intervention.
 
-### Economic Implications.
+## Research Objectives
+Assess the causes and contributing factors to homelessness across different regions.
 
-The housing crisis has significant economic ramifications. High housing costs can deter skilled workers from moving to certain regions, exacerbating labor shortages and hindering economic growth.
+Evaluate the effectiveness of current interventions and support systems.
 
-## Research Objectives for Studying the Housing Crisis in Canada
+Analyze the long-term economic and social impacts of homelessness on communities.
 
-When conducting research on the housing crisis in Canada, it is essential to establish clear and focused objectives to guide the study. Below are research objectives that address the multifaceted nature of the crisis:
+## Relevant Databases for Homelessness Research in Canada
+Homeless Individuals and Families Information System (HIFIS)
 
-### Assess the Causes of the Housing Crisis
-To identify and analyze the primary factors contributing to the housing crisis, including supply shortages, speculative investment, population growth, and policy gaps.
+Developed by the Government of Canada
 
-### Evaluate the Impact on Affordability
-To measure the extent to which housing costs have outpaced income growth across different regions and demographic groups.
+Supports day-to-day operational activities of homelessness service providers
 
-### Investigate the Impact on Vulnerable Populations
-To study how the housing crisis disproportionately affects vulnerable groups, including low-income families, Indigenous communities, newcomers, seniors, and individuals with disabilities.
+https://housing-infrastructure.canada.ca/homelessness-sans-abri/hifis-sisa/index-eng.html
 
-### Explore the Relationship Between Housing and Homelessness
-To analyze the link between housing unaffordability and rising rates of homelessness.
+Built for Zero Canada Community Dashboards
 
-<!--
-<mark>you can cut this below since it is repeating the README</mark>
-## Key Performance Indicators (KPIs) for researching
+Tracks monthly progress toward functional zero for chronic and veteran homelessness
 
-#  Housing Affordability Index (HAI) 
-Measures the ratio of average housing prices to median household income, indicating how affordable housing is in different regions. A higher ratio suggests greater affordability challenges.
-# Rental Vacancy Rate 
-Tracks the percentage of available rental units in a given area. A lower vacancy rate signals increased demand and potential housing shortages.
-# Homelessness Rate per 1,000 People 
-Monitors the number of homeless individuals per 1,000 residents, reflecting the severity of housing insecurity and affordability issues.
-# Average Monthly Rent Increase (%) 
-Measures the year-over-year percentage increase in rental prices, showing trends in rental market inflation and potential financial strain on tenants
-# New Housing Starts & Completions 
-Tracks the number of new residential construction projects and completed housing units, providing insight into whether supply is keeping pace with demand.-->
+https://bfzcanada.ca/by-name-lists/
 
-## Datasets
+Statistics Canada - Homelessness Data Review
 
-1. Housing starts, under construction and completions in centres 10,000 and over, Canada, provinces, and selected census metropolitan areas, seasonally adjusted
+Provides an overview of various data sources for measuring homelessness in Canada
 
-   - Source: Canada Mortgage and Housing Corporation
-   - https://open.canada.ca/data/en/dataset/ce353ebe-1b33-4ab2-94cb-ad319b093bfb
+https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2023004-eng.htm
 
-2. Household spending, Canada, regions and provinces
+Toronto Shelter System Flow Data Dashboard
 
-   - Source: Statistic Canada
-   - https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022201
-   - <mark>Spending on rent is here, but it won't be clear if people are getting nicer apartments or if the average rent is increasing in the area.  Consider this: https://www.statcan.gc.ca/o1/en/plus/4360-sometimes-rent-more-just-rent</mark>
+Shows monthly inflow, outflow, and total active homeless data for Toronto's shelter system
 
-3. Population estimates, quarterly1, 2, 3, 4<mark>This is going to make a great viz when combined with #1 - e.g. divergent trend lines would be interesting!!</mark>
+https://bfzcanada.ca/by-name-lists/ (link to Toronto's dashboard)
 
-   - Source: Statistic Canada
-   - https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901
+Homelessness Hub
 
-4. Homeless Shelter Capacity in Canada from 2016 to 2023, Housing, Infrastructure and Communities Canada (HICC)1
+Provides comprehensive resources and research on homelessness in Canada
 
-   - Source: Statistic Canada
-   - https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410035301
+https://homelesshub.ca/
 
 
 5. Households living with housing problems, by select housing-vulnerable populations and affordability, suitability, adequacy and core housing need indicators1, 

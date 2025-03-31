@@ -16,8 +16,8 @@ Understanding Homelessness in Canada is a critical research area that examines t
   - [Example 1](#example-1)
   - [Example 2](#example-2)
 - [Statistical Analysis](#statistical-analysis)
--  - [Model explanation](model-explanation)
-  - [Results](results)
+-  - [Model explanation](#model-explanation)
+  - [Results](#results)
 - [License](#license)
 
 ## Introduction
@@ -140,8 +140,12 @@ Lower Homelessness in the Atlantic Region: The small size of the Atlantic bubble
  # Total Bed Shelters
  The graph highlights the vast disparities in shelter bed availability across Canada, with Ontario having a substantially larger capacity than other provinces, particularly the Atlantic provinces and territories. This likely reflects a combination of factors, including population size, homelessness rates, and resource allocation.
 
-## Contributing
+## statistical-analysis
 Your contributing guidelines here.
+
+## model-explanation
+
+## results
 
 ## License
 Your license information here.

@@ -18,7 +18,7 @@ Understanding Homelessness in Canada is a critical research area that examines t
 - [Statistical Analysis](#statistical-analysis)
    - [Model explanation](#model-explanation)
    - [Results](#results)
-- [License](#license)
+- [Discussion](#Discussion)
 
 ## Introduction
 ## Key Aspects of Understanding Homelessness in Canada
@@ -220,7 +220,7 @@ The higher proportion of older adults (55-64) in the homeless population may ind
 
 Youth shelter beds are relatively well-distributed compared to the youth homeless population percentage.
 
-## License
+## Discussion
 Your license information here.
 
 

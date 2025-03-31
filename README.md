@@ -144,6 +144,17 @@ Lower Homelessness in the Atlantic Region: The small size of the Atlantic bubble
 Our correlation analysis explored the relationships between shelter capacity and homelessness across Canadian regions, yielding valuable insights into resource allocation patterns and potential gaps in the shelter system.
 
 ## model-explanation
+We constructed a correlation matrix heatmap to visualize the strength and direction of relationships between multiple variables in our datasets:
+
+Shelter capacity metrics (general, men's, women's, youth, and family beds).
+
+Homelessness rates by region.
+
+Demographic distributions of homeless populations.
+
+Per capita metrics (beds per homeless person).
+
+The correlation coefficients range from -1.0 (perfect negative correlation) to 1.0 (perfect positive correlation), with values closer to zero indicating weaker relationships.
 
 ## results
 

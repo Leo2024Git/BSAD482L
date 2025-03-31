@@ -25,6 +25,9 @@ Understanding Homelessness in Canada is a critical research area that examines t
 
 ## Introduction
 ## Key Aspects of Understanding Homelessness in Canada
+
+ ![Alt text](https://snipboard.io/Q0oPLr.jpg)
+ 
 Scale and Demographics
 As of 2024, an estimated 81,515 people were experiencing homelessness in Ontario alone, representing a 51% increase since 20163.
 

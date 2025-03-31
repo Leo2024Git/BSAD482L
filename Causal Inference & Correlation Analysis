@@ -1,1 +1,172 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load and prepare the shelter capacity data
+shelter_data = pd.DataFrame({
+    'Province': ['Newfoundland and Labrador', 'New Brunswick', 'Nova Scotia', 'Prince Edward Island', 
+                 'Quebec', 'Ontario', 'Manitoba', 'Saskatchewan', 'Alberta', 'British Columbia', 
+                 'Yukon', 'Northwest Territories', 'Nunavut'],
+    'General_Beds': [4, 0, 0, 0, 114, 250, 507, 20, 1262, 545, 10, 0, 0],
+    'Mens_Beds': [20, 35, 115, 7, 916, 1483, 0, 78, 304, 291, 0, 44, 22],
+    'Womens_Beds': [0, 10, 36, 0, 259, 572, 0, 91, 6, 238, 0, 23, 12],
+    'Youth_Beds': [17, 0, 20, 0, 197, 416, 34, 11, 45, 90, 4, 10, 0],
+    'Family_Beds': [12, 0, 0, 0, 7, 496, 60, 0, 0, 30, 0, 32, 0],
+    'Total_Beds': [53, 45, 171, 7, 1493, 3217, 601, 200, 1617, 1194, 14, 109, 34],
+    'Total_Shelters': [5, 2, 5, 1, 45, 41, 9, 12, 11, 38, 2, 4, 2]
+})
+
+# Load and prepare the homelessness data
+homelessness_data = pd.DataFrame({
+    'Region': ['Atlantic', 'Quebec', 'Ontario', 'Prairies', 'British Columbia', 'Territories'],
+    'Total_Homelessness': [7.3, 16.9, 38.0, 19.6, 17.7, 0.3]
+})
+
+# Map provinces to regions
+region_mapping = {
+    'Newfoundland and Labrador': 'Atlantic',
+    'New Brunswick': 'Atlantic',
+    'Nova Scotia': 'Atlantic',
+    'Prince Edward Island': 'Atlantic',
+    'Quebec': 'Quebec',
+    'Ontario': 'Ontario',
+    'Manitoba': 'Prairies',
+    'Saskatchewan': 'Prairies',
+    'Alberta': 'Prairies',
+    'British Columbia': 'British Columbia',
+    'Yukon': 'Territories',
+    'Northwest Territories': 'Territories',
+    'Nunavut': 'Territories'
+}
+
+shelter_data['Region'] = shelter_data['Province'].map(region_mapping)
+
+# Aggregate shelter data by region
+region_shelter_data = shelter_data.groupby('Region').sum().reset_index()
+
+# Merge datasets
+merged_data = pd.merge(region_shelter_data, homelessness_data, on='Region')
+
+# Create normalized per capita metrics
+merged_data['Beds_per_Homeless'] = merged_data['Total_Beds'] / merged_data['Total_Homelessness']
+merged_data['Shelters_per_Homeless'] = merged_data['Total_Shelters'] / merged_data['Total_Homelessness']
+
+# Select numerical columns for correlation
+numerical_columns = ['General_Beds', 'Mens_Beds', 'Womens_Beds', 'Youth_Beds', 
+                     'Family_Beds', 'Total_Beds', 'Total_Shelters', 'Total_Homelessness',
+                     'Beds_per_Homeless', 'Shelters_per_Homeless']
+correlation_data = merged_data[numerical_columns]
+
+# Calculate correlation matrix
+correlation_matrix = correlation_data.corr()
+
+# Create heatmap
+plt.figure(figsize=(14, 12))
+sns.set(font_scale=1.2)
+
+# Create heatmap with custom color map
+heatmap = sns.heatmap(
+    correlation_matrix, 
+    annot=True, 
+    cmap='coolwarm', 
+    vmin=-1, 
+    vmax=1, 
+    center=0,
+    square=True, 
+    linewidths=.5,
+    cbar_kws={"shrink": .8},
+    fmt='.2f'
+)
+
+plt.title('Correlation Matrix: Shelter Capacity vs Homelessness Data', fontsize=18, pad=20)
+plt.xticks(rotation=45, ha='right')
+plt.tight_layout()
+
+# Create a second visualization: scatter plot of total beds vs homelessness with regression line
+plt.figure(figsize=(10, 8))
+sns.set_style("whitegrid")
+scatter = sns.regplot(
+    x='Total_Homelessness', 
+    y='Total_Beds', 
+    data=merged_data, 
+    scatter_kws={'s': 100, 'alpha': 0.7},
+    line_kws={'color': 'red'}
+)
+
+# Add region labels
+for i, row in merged_data.iterrows():
+    plt.annotate(
+        row['Region'], 
+        (row['Total_Homelessness'], row['Total_Beds']), 
+        xytext=(7, 0), 
+        textcoords='offset points',
+        fontsize=12,
+        fontweight='bold'
+    )
+
+plt.title('Relationship between Total Homelessness and Total Shelter Beds by Region', fontsize=16)
+plt.xlabel('Total Homelessness Rate (%)', fontsize=14)
+plt.ylabel('Total Shelter Beds', fontsize=14)
+plt.tight_layout()
+
+# Create a third visualization: bar chart comparing beds per homeless person across regions
+plt.figure(figsize=(12, 8))
+merged_data = merged_data.sort_values('Beds_per_Homeless', ascending=False)
+bars = sns.barplot(
+    x='Region', 
+    y='Beds_per_Homeless', 
+    data=merged_data,
+    palette='viridis'
+)
+
+plt.title('Shelter Beds per Homeless Person by Region', fontsize=16)
+plt.xlabel('Region', fontsize=14)
+plt.ylabel('Beds per Homeless Person', fontsize=14)
+plt.xticks(rotation=45)
+
+# Add value labels on top of bars
+for i, v in enumerate(merged_data['Beds_per_Homeless']):
+    plt.text(i, v + 1, f'{v:.1f}', ha='center', fontsize=12)
+
+plt.tight_layout()
+
+# Print correlation coefficients with homelessness
+print("\nCorrelation with Total Homelessness:")
+correlations_with_homelessness = correlation_matrix['Total_Homelessness'].sort_values(ascending=False)
+print(correlations_with_homelessness)
+
+# Print summary statistics
+print("\nSummary Statistics by Region:")
+summary_stats = merged_data[['Region', 'Total_Beds', 'Total_Homelessness', 'Beds_per_Homeless']]
+print(summary_stats)
+<ipython-input-7-d9b6f49676e7>:116: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  bars = sns.barplot(
+
+Correlation with Total Homelessness:
+Total_Homelessness       1.000000
+Total_Beds               0.944092
+Youth_Beds               0.915200
+Womens_Beds              0.913437
+Mens_Beds                0.881491
+Family_Beds              0.827910
+Total_Shelters           0.782282
+General_Beds             0.252029
+Beds_per_Homeless       -0.565669
+Shelters_per_Homeless   -0.648617
+Name: Total_Homelessness, dtype: float64
+
+Summary Statistics by Region:
+             Region  Total_Beds  Total_Homelessness  Beds_per_Homeless
+5       Territories         157                 0.3         523.333333
+3          Prairies        2418                19.6         123.367347
+4            Quebec        1493                16.9          88.343195
+2           Ontario        3217                38.0          84.657895
+1  British Columbia        1194                17.7          67.457627
+0          Atlantic         276                 7.3          37.808219
+
+https://drive.google.com/file/d/1R1mVRujQeL8mqPsrX1MpP4TwpKyf8bQa/view?usp=sharing
 

@@ -65,6 +65,8 @@ Analyze the long-term economic and social impacts of homelessness on communities
 
 ## Data Analysis
 
+![Alt text](https://snipboard.io/79HVLn.jpg)
+
 #### Key Performance Indicator (KPI): Chronic Homelessness
 
 Definition:
@@ -240,6 +242,9 @@ Men's shelter beds show the strongest correlation with total homelessness rates.
 Significant negative correlation between homelessness rates and beds-per-homeless-person (suggesting potential resource gaps in high-homelessness regions).
 
 ## Discussion
+
+![Alt text](https://snipboard.io/ul1ow0.jpg)
+
 
 Based on our correlation analysis of shelter capacity and homelessness data across Canadian regions, we've identified several important relationships that merit attention:
 

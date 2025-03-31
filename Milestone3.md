@@ -69,5 +69,16 @@ Significant negative correlation between homelessness rates and beds-per-homeles
 
 ## Conclusion
 
+Based on our correlation analysis of shelter capacity and homelessness data across Canadian regions, we've identified several important relationships that merit attention:
+
+The data reveals a strong positive correlation between total shelter beds and homelessness rates across regions. This suggests that resource allocation is generally responsive to homelessness prevalence, with more shelter capacity typically provided in areas experiencing higher rates of homelessness. This relationship is particularly evident in Ontario, which has both the highest homelessness rate and the greatest number of shelter beds.
+
+Different shelter types show varying relationships with homelessness rates. Men's shelter beds demonstrate the strongest correlation with overall homelessness, followed by women's beds and youth beds. Family beds show a more moderate correlation, while general beds have the weakest relationship with homelessness rates. These differences may reflect both the demographic composition of the homeless population (54% male, 46% female) and potentially different approaches to shelter resource allocation by type.
+
+Regional analysis reveals notable differences in the shelter capacity to homelessness ratio. The Territories region has the highest beds-per-homeless-person ratio despite having the lowest absolute homelessness rate. In contrast, some regions with substantial homeless populations have relatively lower beds-per-homeless ratios, suggesting potential resource gaps. These regional variations highlight opportunities for more equitable distribution of shelter resources relative to local homelessness challenges.
+
+The demographic data further contextualizes these findings, showing that older adults (55-64) are overrepresented in the homeless population compared to general households, which may indicate a need for specialized shelter resources for this growing demographic. 
+
+
 **These findings suggest that while shelter capacity generally correlates with homelessness rates, there are demographic and regional disparities in resource allocation. The data indicates potential opportunities to better align shelter resources with the demographic profile of the homeless population, particularly for older adults and in regions with lower beds-per-homeless ratios.**
 

@@ -6,7 +6,9 @@
 
 Understanding Homelessness in Canada is a critical research area that examines the complex and multifaceted issue of homelessness across the country. This field of study aims to provide comprehensive insights into the scale, causes, and impacts of homelessness, as well as to inform evidence-based policies and interventions.
 
-# Project Title
+![Alt text](https://snipboard.io/vmiNhg.jpg)
+
+# Understanding Homelesness in Canad
 
 ## Table of Contents
 

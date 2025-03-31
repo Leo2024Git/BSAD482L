@@ -15,7 +15,9 @@ Understanding Homelessness in Canada is a critical research area that examines t
 - [Data Analysis](#data-analysis)
   - [Example 1](#example-1)
   - [Example 2](#example-2)
-- [Contributing](#contributing)
+- [Statistical Analysis](#statistical-analysis)
+-  - [Model explanation](model-explanation)
+  - [Results](results)
 - [License](#license)
 
 ## Introduction

@@ -82,8 +82,18 @@ Total beds in shelters in Canada refers to the number of available emergency, tr
 
 
 ### Example 1
-Details for example 1.
+ ![Alt Text](https://snipboard.io/gkHZMP.jpg)
+# Chronic Homelesness 
+The graph indicates fluctuation in the number of shelter users experiencing chronic homelessness between 2017 and 2021. There is an initial decrease from 2017 to 2018, followed by a peak in 2019, and then a decrease in 2020, with a slight rise in 2021.
 
+ ![Alt Text](https://snipboard.io/QPh1ws.jpg)
+# Hidden Homelesness Demography
+This data suggests that hidden homelessness disproportionately affects younger adults. This could be due to factors such as:
+
+Lack of job experience/opportunities: Younger individuals may have difficulty securing stable employment.
+Housing affordability: Rising housing costs may make it difficult for young people to afford their own housing.
+Family conflict/instability: Younger individuals may be more likely to experience family conflict that leads to homelessness.
+Social network: Older people have a stronger social safety net.
 ### Example 2
 Details for example 2.
 

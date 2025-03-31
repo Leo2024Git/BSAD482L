@@ -144,6 +144,9 @@ Lower Homelessness in the Atlantic Region: The small size of the Atlantic bubble
  The graph highlights the vast disparities in shelter bed availability across Canada, with Ontario having a substantially larger capacity than other provinces, particularly the Atlantic provinces and territories. This likely reflects a combination of factors, including population size, homelessness rates, and resource allocation.
 
 ## statistical-analysis
+
+![Alt text](https://snipboard.io/sOmx0u.jpg)
+
 Our correlation analysis explored the relationships between shelter capacity and homelessness across Canadian regions, yielding valuable insights into resource allocation patterns and potential gaps in the shelter system.
 
 ## model-explanation
